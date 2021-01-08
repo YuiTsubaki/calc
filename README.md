@@ -43,6 +43,6 @@ Ubuntuの端末を３つ立ち上げます。
     [ros_setup_scripts_Ubuntu18.04_desktop](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server.git)
     
 ## ライセンス
-    ROS - [BSD 3-Clause License](https://github.com/YuiTsubaki/calc/blob/main/LICENSE)
+   [BSD 3-Clause License](https://github.com/YuiTsubaki/calc/blob/main/LICENSE)
   
-  
+ 
