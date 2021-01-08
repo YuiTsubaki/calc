@@ -26,12 +26,12 @@ Ubuntuの端末を３つ立ち上げます。<br>
 
 初めに1つ目で　`$roscore` を実行してrosocoreを立ち上げます。<br>
 
- Publisher <br>
+ 〇Publisher <br>
   別の端末で<br>
   `$rosrun calc scan.py`<br>
   を実行<br>
   式を入力します。<br>
- Subscriber<br>
+〇Subscriber<br>
   また別の端末で<br>
   `$rosrun calc calc.py`<br>
   を実行<br>
