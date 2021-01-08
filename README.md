@@ -26,19 +26,19 @@ Ubuntuの端末を３つ立ち上げます。
 
 初めに1つ目で　`$roscore` を実行してrosocoreを立ち上げます。
 
-・Publisher
-  別の端末で
-  `$rosrun calc scan.py`
+・Publisher <br>
+  別の端末で<br>
+  `$rosrun calc scan.py`<br>
   を実行
   式を入力します。
-・Subscriber
+・Subscriber<br>
   また別の端末で
-  `$rosrun calc calc.py`
+  `$rosrun calc calc.py`<br>
   を実行
   計算結果が出力されます。
   
 ## 参考
-  Prof. Ryuichi Ueda
+  Prof. Ryuichi Ueda<br>
     robosys2020 - ros <br>
     [ros_setup_scripts_Ubuntu18.04_desktop](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server.git)
     
