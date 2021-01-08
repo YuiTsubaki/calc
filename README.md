@@ -39,7 +39,7 @@ Ubuntuの端末を３つ立ち上げます。
   
 ## 参考
   Prof. Ryuichi Ueda
-    robosys2020 - ros
+    robosys2020 - ros <br>
     [ros_setup_scripts_Ubuntu18.04_desktop](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server.git)
     
 ## ライセンス
